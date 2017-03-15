@@ -32,3 +32,11 @@ At a minimum, the site must have the following pages:
  - As much as possible, your code should be organized into small, logically coherent pieces that all fit together within the overall structure.
    + Every function you write should have **one** job.
    + If you have a function that's doing more than one thing — for example, making an AJAX request **and** displaying the returned data on the page — split it up! Have one function make the AJAX request and a separate function display the returned data.
+
+## Links
+ - Twitter Bootstrap (for basic site styling and layout).
+   + [How to include Bootstrap in your project](http://getbootstrap.com/getting-started/).
+   + [How to take advantage of Bootstrap's grid system to for organizing your pages](http://getbootstrap.com/css/#grid).
+   + [Download and play around with Bootstrap's examples](http://getbootstrap.com/getting-started/#examples) or start with [a blank, basic template](http://getbootstrap.com/getting-started/#template).
+ - [GitHub API documentation](https://developer.github.com/v3/).
+ - [Code organization guide from jQuery](https://learn.jquery.com/code-organization/).
