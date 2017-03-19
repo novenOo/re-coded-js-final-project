@@ -15,7 +15,7 @@ At a minimum, the site must have the following pages:
  - **Projects**
    + A page with two navigational buttons or tabs, `Current` and `Favorite`:
      * Clicking the `Current` button will make an AJAX request to the GitHub API and display information about your 5 most recent GitHub repositories.
-     * Clicking the `Favorite` button will ...
+     * Clicking the `Favorite` button will display a list of your pinned github repositories which can be your projects or any repository you're proud of, you can use static links or you can add these projects to your linkedin profile and make ajax request from linkedin api.
  - **Skills**
    + A page showcasing the skills that you have learned in Re:Coded (for example, CSS, HTML, JavaScript, jQuery, AJAX, Ruby, web scraping (with Nokogiri and now with JavaScript), Pry (for Ruby development), RSpec (for Ruby testing), Git (with remotes stored on GitHub), etc.
      * The skills should be stored in a JSON file that gets loaded via an AJAX request.
