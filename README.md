@@ -45,3 +45,4 @@ At a minimum, the site must have the following pages:
  - [GitHub API documentation](https://developer.github.com/v3/).
  - [Code organization guide from jQuery](https://learn.jquery.com/code-organization/).
  - [Some examples of well-done, clean, professional websites](https://www.awwwards.com/websites/clean/).
+ - [Some examples of **bad** web design. Use these as examples of what **not** to do](http://www.webpagesthatsuck.com/bad-web-design.html).
