@@ -46,7 +46,7 @@ At a minimum, the site must have the following pages:
  - [Code organization guide from jQuery](https://learn.jquery.com/code-organization/).
  - [Some examples of well-done, clean, professional websites](https://www.awwwards.com/websites/clean/).
  - [Some examples of **bad** web design. Use these as examples of what **not** to do](http://www.webpagesthatsuck.com/bad-web-design.html).
- - [![Awesome](http://i.imgur.com/S7qSVFP.png)](https://github.com/sindresorhus/awesome) Links
+ - [![Awesome](http://i.imgur.com/S7qSVFP.png)](https://github.com/sindresorhus/awesome)
    + [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
    + [Awesome jQuery](https://github.com/petk/awesome-jquery)
    + [Awesome HTML5](https://github.com/diegocard/awesome-html5)
