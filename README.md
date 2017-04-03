@@ -40,3 +40,4 @@ At a minimum, the site must have the following pages:
  - [Basscss](http://basscss.com/) (for even more basic site styling and layout).
  - [GitHub API documentation](https://developer.github.com/v3/).
  - [Code organization guide from jQuery](https://learn.jquery.com/code-organization/).
+ - [Some examples of well-done, clean, professional websites](https://www.awwwards.com/websites/clean/).
