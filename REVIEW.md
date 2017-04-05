@@ -3,6 +3,7 @@
 ## Function
 ### AJAX Requests
 - [ ] All AJAX requests work properly.
+- [ ] Large images, videos, and other media — anything that would significantly slow down the user's browsing experience — are loaded via AJAX requests.
 
 ### JavaScript Style
 - [ ] Each page has its own JavaScript file that contains JavaScript written specifically for that page.
@@ -44,6 +45,9 @@
 - [ ] Website does not feel cluttered.
 - [ ] Spacing between similar elements is consistent across all pages. (For example, the amount of space between the navbar and the page's content is identical on every page.)
 - [ ] Sizing of similar elements is consistent across all pages. (For example, the navbar links on each page are identical.)
+- [ ] All text is readable. For example, there isn't black text on top of a dark image or green text on a red background.
+- [ ] Website has a uniform color scheme. Aside from images, the same base colors are used on every page of the site.
+- [ ] Website has a uniform style / layout. It should feel like one cohesive site and not just a random collection of pages thrown together.
 
 ### Pages
 #### Student's Choice
