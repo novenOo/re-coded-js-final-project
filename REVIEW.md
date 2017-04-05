@@ -1,5 +1,9 @@
 # Re:Coded Final Project Review Checklist
 
+**Name of project developer**: 
+
+**Link to project's GitHub repository**: 
+
 ## Function
 ### AJAX Requests
 - [ ] All AJAX requests work properly.
@@ -76,3 +80,10 @@
   + **List example**: 
 - [ ] Student came up with their own, creative idea.
   + **List idea**: 
+  
+## Linters
+- [ ] I ran the student's JavaScript code through [JSLint](http://jslint.com/) and told them about any JavaScript issues.
+- [ ] I ran the student's HTML code through [the W3C's HTML validator](https://validator.w3.org/nu/) and told them about any HTML issues.
+- [ ] I ran the student's CSS code through [CSS Lint](http://csslint.net/) and told them about any CSS issues.
+
+**Name of reviewer**: 
